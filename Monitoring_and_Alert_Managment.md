@@ -15,15 +15,15 @@ Collect all relevant data
 
 Automate your monitoring
 
--Use automation tools to monitor your AWS resources, set up alerts, and respond to incidents automatically.
+- Use automation tools to monitor your AWS resources, set up alerts, and respond to incidents automatically.
 
 Analyze and correlate data
 
--Analyze and correlate data from multiple sources to gain insights into system behavior, identify trends, and detect anomalies.
+- Analyze and correlate data from multiple sources to gain insights into system behavior, identify trends, and detect anomalies.
 
 Take action
 
--Use monitoring data to proactively address issues before they impact your system and take corrective action to remediate any problems that do arise.
+- Use monitoring data to proactively address issues before they impact your system and take corrective action to remediate any problems that do arise.
 
 <h3>What are the folden golden signals?</h3>
 
