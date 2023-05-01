@@ -2,6 +2,7 @@
 
 ![cloudwatch diagram](https://user-images.githubusercontent.com/126012715/235471175-ccb6017a-bc36-430c-a9f5-5ec96f23648b.png)
 
+![image](https://user-images.githubusercontent.com/126012715/235475367-81d0d2e4-b370-4d36-bf00-90c59cbe20e3.png)
 
 
 <h3>Step 1</h3>
