@@ -7,7 +7,7 @@ Diagram
 
 - Create an instance, we used our `s3boto3` from our previous classes, to which I started launching / running. 
 
-Create a SNS Topic
+<h3>Create a SNS Topic</h3>
 
 <h3>Step 1</h3>
 
