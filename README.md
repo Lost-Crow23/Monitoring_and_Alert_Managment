@@ -1,7 +1,8 @@
 <h1>Setting Alarm using Cloudwatch</h1>
 
+![cloudwatch diagram](https://user-images.githubusercontent.com/126012715/235471175-ccb6017a-bc36-430c-a9f5-5ec96f23648b.png)
 
-Diagram 
+
 
 <h3>Step 1</h3>
 
@@ -45,7 +46,7 @@ lower thresold and lower period if it doesn't meet criteria.
 
 - SSH our instance onto our git bash terminal by following the `connect` method
 - Create a python file by making `nano folder` e.g `sudo nano cpu_load.py` to test out the CPU utilisation and if the desired thresold is reached thus sending us an email due to the alarm.
-- Within the python file, a `while loop` must be in effect to disrupt the CPU and go above the thresold.
+- Within the python file, a `while loop` must be in effect to disrupt the CPU and go above the thresold. And excute file `python cpu_load.py`.
 
       import time
       import random
@@ -60,3 +61,4 @@ lower thresold and lower period if it doesn't meet criteria.
 - Wait the desired period of 5 minutes, then check email to see the notif of the alarm.
 - An example can be seen as below:
 
+<img width="792" alt="SNS Topic Alarm email" src="https://user-images.githubusercontent.com/126012715/235470995-3787aaef-64ac-414b-b1af-af4b3ed039e7.png">
