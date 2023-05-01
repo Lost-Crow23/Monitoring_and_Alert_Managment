@@ -47,8 +47,8 @@ lower thresold and lower period if it doesn't meet criteria.
 - Create a python file by making `nano folder` e.g `sudo nano cpu_load.py` to test out the CPU utilisation and if the desired thresold is reached thus sending us an email due to the alarm.
 - Within the python file, a `while loop` must be in effect to disrupt the CPU and go above the thresold.
 
-    import time
-    import random
+      import time
+      import random
       
       while True:     
         x = random.random()     
